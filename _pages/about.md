@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Arthur K Watson Hall 101</p>
+    <p>Arthur K Watson Hall Room 101</p>
     <p>51 Prospect St</p>
     <p>New Haven, CT 06520</p>
 
