@@ -30,6 +30,18 @@
 - title: Experience
   type: time_table
   contents:
+    - title: CCM Summer Research Intern
+      institution: Yale University
+      year: 2020
+      description:
+        - Explored deep image prior-based techniques for enhancing phase retrieval in low-photon settings at the Center for Computational Mathematics (CCM) at Flatiron Institute
+
+    - title: Summer Research Fellow
+      institution: Yale University
+      year: 2019
+      description:
+        - Studied under Alexander Cloninger, Yuval Kluger, and Ronald Coifman, investigating manifold-based machine learning techniques for manifold-valued data generation
+
     - title: Research Fellow
       institution: Yale University
       year: 2017
@@ -41,8 +53,6 @@
       year: 2016
       description:
         - Modified machine learning module (an n-gram Markov model) in FireOS to reduce memory usage by ~2x with no significant reduction in prediction quality
-        - Developed proof-of-concept app for voice search on Amazon Fire TV
-        - Improved the performance boosting heuristics in FireOS to delay non-essential processes and speed up app launches
 
     - title: Moncrief Summer Research Fellow
       institution: UT Austin
